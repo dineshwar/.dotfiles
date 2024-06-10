@@ -35,3 +35,4 @@ $ stow .
 ```
 
 ## Note
+New configuration has been added.
