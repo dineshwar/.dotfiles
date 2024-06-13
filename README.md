@@ -33,6 +33,3 @@ then use GNU stow to create symlinks
 ```
 $ stow .
 ```
-
-## Note
-New configuration has been added.
