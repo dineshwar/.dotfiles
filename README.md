@@ -27,7 +27,6 @@ $ mkdir .dotfiles
 $ cd .dotfiles
 $ git clone git@github.com:dineshwar/.dotfiles.git .
 ```
-
 then use GNU stow to create symlinks
 
 ```
