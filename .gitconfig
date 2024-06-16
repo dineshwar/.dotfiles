@@ -3,3 +3,5 @@
 	name = Dineshwar
 [init]
 	defaultBranch = main
+[pull]
+	ff = only
