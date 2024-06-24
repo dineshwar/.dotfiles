@@ -74,8 +74,8 @@ plugins=(
 	git
 	web-search
 	history
-  zsh-syntax-highlighting
-  zsh-autosuggestions
+ 	zsh-syntax-highlighting
+	zsh-autosuggestions
 )
 
 source $ZSH/oh-my-zsh.sh
