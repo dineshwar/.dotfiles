@@ -76,6 +76,7 @@ plugins=(
 	history
  	zsh-syntax-highlighting
 	zsh-autosuggestions
+	docker
 )
 
 source $ZSH/oh-my-zsh.sh
