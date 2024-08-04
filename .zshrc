@@ -78,6 +78,7 @@ plugins=(
 	zsh-autosuggestions
 	docker
 	tmux
+  you-should-use
 )
 
 source $ZSH/oh-my-zsh.sh
