@@ -78,7 +78,9 @@ plugins=(
 	zsh-autosuggestions
 	docker
 	tmux
+  dnf
   you-should-use
+  golang
 )
 
 source $ZSH/oh-my-zsh.sh
