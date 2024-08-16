@@ -81,6 +81,7 @@ plugins=(
   dnf
   you-should-use
   golang
+  sudo
 )
 
 source $ZSH/oh-my-zsh.sh
