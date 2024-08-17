@@ -112,6 +112,8 @@ source $ZSH/oh-my-zsh.sh
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 alias change_theme='bash -c "$(wget -qO- https://git.io/vQgMr)"'
+alias vim='nvim'
+
 export PATH=$PATH:/usr/local/go/bin
 
 #Star Ship
