@@ -71,17 +71,18 @@ ZSH_THEME="" #josh, intheloop, spaceship
 # Example format: plugins=(rails git textmate ruby lighthouse)
 # Add wisely, as too many plugins slow down shell startup.
 plugins=(
-	git
-	web-search
-	history
- 	zsh-syntax-highlighting
-	zsh-autosuggestions
-	docker
-	tmux
+  docker
   dnf
-  you-should-use
+  fzf
+  git
   golang
+  history
   sudo
+  tmux
+  web-search
+  you-should-use
+  zsh-autosuggestions
+  zsh-syntax-highlighting
 )
 
 source $ZSH/oh-my-zsh.sh
