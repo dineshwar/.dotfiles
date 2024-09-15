@@ -79,6 +79,7 @@ plugins=(
   golang
   history
   sudo
+  starship
   tmux
   web-search
   you-should-use
@@ -117,9 +118,6 @@ alias change_theme='bash -c "$(wget -qO- https://git.io/vQgMr)"'
 alias vim='nvim'
 
 export PATH=$PATH:/usr/local/go/bin
-
-#Star Ship
-eval "$(starship init zsh)"
 
 export NVM_DIR="$HOME/.nvm"
 [ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"  # This loads nvm
