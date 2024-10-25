@@ -127,3 +127,4 @@ export PATH="$HOME/.yarn/bin:$HOME/.config/yarn/global/node_modules/.bin:$PATH"
 
 # Source fzf key bindings
 source /usr/share/fzf/shell/key-bindings.zsh
+. "/home/dineshwar/.deno/env"
