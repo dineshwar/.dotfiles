@@ -72,6 +72,7 @@ ZSH_THEME="" #josh, intheloop, spaceship
 # Add wisely, as too many plugins slow down shell startup.
 plugins=(
   colored-man-pages
+  deno
   docker
   dnf
   fzf
