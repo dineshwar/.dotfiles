@@ -130,3 +130,6 @@ export PATH="$HOME/.yarn/bin:$HOME/.config/yarn/global/node_modules/.bin:$PATH"
 source /usr/share/fzf/shell/key-bindings.zsh
 # Deno
 . "/home/dineshwar/.deno/env"
+#zoxide
+eval "$(zoxide init zsh)"
+
