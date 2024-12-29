@@ -131,5 +131,5 @@ source /usr/share/fzf/shell/key-bindings.zsh
 # Deno
 . "/home/dineshwar/.deno/env"
 #zoxide
-eval "$(zoxide init zsh)"
+eval "$(zoxide init --cmd cd zsh)"
 
